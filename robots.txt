@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asewe-atieno-advocates.vercel.app/sitemap.xml
